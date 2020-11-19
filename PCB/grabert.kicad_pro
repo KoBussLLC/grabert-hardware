@@ -370,7 +370,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "grabert.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
