@@ -114,7 +114,7 @@
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0,
+        "solder_mask_min_width": 0.22097999999999998,
         "solder_paste_clearance": 0.0,
         "solder_paste_margin_ratio": -0.0
       },

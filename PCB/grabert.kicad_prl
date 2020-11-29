@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -50,6 +50,7 @@
       22,
       23,
       24,
+      27,
       28,
       29,
       30,
@@ -59,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "cffffff_ffffffff"
+    "visible_layers": "fffffff_ffffffff"
   },
   "meta": {
     "filename": "grabert.kicad_prl",

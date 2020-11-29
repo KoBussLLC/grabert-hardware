@@ -4,6 +4,9 @@
 # Backup Files
 PCB/grabert-backups/*
 
+# Gerbers
+PCB/*-gerbers/*
+
 # Temporary files
 *.000
 *.bak
