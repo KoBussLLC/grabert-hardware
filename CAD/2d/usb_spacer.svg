@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 3023.2602 1372.2501"
+   height="137.22501mm"
+   version="1.2"
+   width="302.32602mm"
+   id="svg2154"
+   sodipodi:docname="usb_spacer.svg"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
+  <metadata
+     id="metadata2158">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="968"
+     id="namedview2156"
+     showgrid="false"
+     inkscape:zoom="1.0268727"
+     inkscape:cx="541.78901"
+     inkscape:cy="300.69127"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2154"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">FreeCAD SVG Export</title>
+  <desc
+     id="desc4">Drawing page: Page exported from FreeCAD document: grabert</desc>
+  <defs
+     id="defs6" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="M 3019.75,28.899996 C 3019.75,14.88 3008.38,3.5 2994.36,3.5 v 0 h -396.88 v 0 c -7.01,0 -12.7,5.6899997 -12.7,12.699996 v 0.01 46.03 0 c 0,7.02 5.69,12.7 12.7,12.7 v 0 h 338.14 v 0 c 7.01,0 12.7,5.69 12.7,12.7 v 0 1196.980104 0 c 0,7.01 -5.69,12.7 -12.7,12.7 v 0 H 87.64 v 0 c -7.01,0 -12.7,-5.69 -12.7,-12.7 v 0 -1196.980104 0 c 0,-7.01 5.69,-12.7 12.7,-12.7 v 0 h 2357.44 v 0 c 7.01,0 12.7,-5.68 12.7,-12.7 v 0 -46.03 0 C 2457.78,9.1899997 2452.09,3.51 2445.08,3.51 V 3.5 H 28.9 v 0 C 14.88,3.5 3.51,14.88 3.51,28.899996"
+     id="path176"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 3.5,28.899996 v 1314.460104 0 c 0.01,14.02 11.38,25.39 25.4,25.39 v 0 h 2965.45 v 0 c 14.03,0 25.41,-11.37 25.41,-25.39 v 0 V 28.899996"
+     id="path200"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2995.57,1329.0701 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path272"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 58.69,1329.0701 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path276"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2995.57,43.189996 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path280"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 58.69,43.189996 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path284"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2016.61,1329.0701 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path288"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 1037.65,1329.0701 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path292"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2016.61,43.189996 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path296"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 1037.65,43.189996 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path300"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="M 2892.75,467.4 V 188 v 0 c 0,-28.06 -22.74,-50.8 -50.8,-50.8 v 0 H 181.31 v 0 c -28.06,0 -50.8,22.74 -50.8,50.8 v 0 279.4 0 c 0,28.06 22.74,50.8 50.8,50.8 v 0 h 2660.64 v 0 c 28.06,0 50.8,-22.74 50.8,-50.8 z"
+     id="path2032"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2532.55,264.2 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path2064"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 521.713,264.2 c 0,8.56 -6.939,15.5 -15.503,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.564,0 15.503,6.94 15.503,15.5 z"
+     id="path2068"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="M 2810.21,579.97 H 213.05 v 0 c -28.05,0 -50.8,22.74 -50.79,50.8 v 0 215.9 0 c -0.01,28.06 22.74,50.8 50.79,50.8 v 0 h 2597.16 v 0 c 28.05,0 50.8,-22.74 50.79,-50.8 v 0 -215.9 0 c 0.01,-28.06 -22.74,-50.8 -50.79,-50.8 z"
+     id="path2072"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2532.55,675.22 c 0,8.56 -6.94,15.5 -15.5,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.56,0 15.5,6.94 15.5,15.5 z"
+     id="path2104"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 521.713,675.22 c 0,8.56 -6.939,15.5 -15.503,15.5 -8.56,0 -15.5,-6.94 -15.5,-15.5 0,-8.56 6.94,-15.5 15.5,-15.5 8.564,0 15.503,6.94 15.503,15.5 z"
+     id="path2108"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2829.25,1173.6201 v -152.4 0 c 0,-28.06006 -22.74,-50.80006 -50.8,-50.80006 v 0 H 244.81 v 0 c -28.06,0 -50.8,22.74 -50.8,50.80006 v 0 152.4 0 c 0,28.06 22.74,50.8 50.8,50.8 v 0 h 2533.64 v 0 c 28.06,0 50.8,-22.74 50.8,-50.8 z"
+     id="path2112"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#ff0000;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 2527.55,1033.9201 c 0,5.8 -4.7,10.5 -10.5,10.5 -5.8,0 -10.5,-4.7 -10.5,-10.5 0,-5.8 4.7,-10.5 10.5,-10.5 5.8,0 10.5,4.7 10.5,10.5 z"
+     id="path2144"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     fill-rule="evenodd"
+     vector-effect="none"
+     d="m 516.713,1033.9201 c 0,5.8 -4.701,10.5 -10.503,10.5 -5.8,0 -10.5,-4.7 -10.5,-10.5 0,-5.8 4.7,-10.5 10.5,-10.5 5.802,0 10.503,4.7 10.503,10.5 z"
+     id="path2148"
+     style="font-style:normal;font-weight:400;font-size:31.75px;font-family:'Sans Serif';fill:none;stroke:#0000ff;stroke-width:7;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+</svg>
