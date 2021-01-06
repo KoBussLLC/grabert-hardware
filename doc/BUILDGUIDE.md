@@ -87,7 +87,7 @@ To make sure that the switch is “clipped” in place and is securely in the sw
  
 ### Case Assembly
  
-1. Clean the OLED display and solder joints with a cloth coated in isopropyl alcohol
+1. Clean the OLED display and solder joints with a cloth coated in isopropyl alcohol. **Do not clean the acrylic case with isopropyl alcohol as it will cause the acrylic to crack!**
 2. Grab the casing materials and start with the bottom plate along with two 6mm standoffs and four screws (Skip the standoffs and foot pieces if you do not want an inclined keyboard)
 3. The bottom plate is symmetrical, so pick a side and call it "the top". Screw the two 6mm standoffs into the “center” holes with two screws. Hand tight is adequate. ![](case_bottom_foot_standoffs.jpg)
 4. Place the acrylic foot pieces from largest to smallest onto the standoffs. Capture the smallest acrylic piece by screwing in the remaining 2mm screws hand tight. The holes in the acrylic feet should be towards the top of the keyboard. ![](case_foot.jpg)
@@ -96,7 +96,7 @@ To make sure that the switch is “clipped” in place and is securely in the sw
 7. Place two open spacers on top, aligning the USB cut out to the right side. ![](case_open_spacer.jpg)
 8. Place your completed switch plate assembly on top.  ![](case_switchplate.jpg)
 9. Place the last closed spacer onto the switchplate. ![](case_second_closed_spacer.jpg)
-10. Lastly, grab the opaque top with the opening for the OLED screen and align the holes with the standoffs. Wipe off the opaque top with alcohol before placing the clear cover on top. Then, take the remaining screws and screw in the top. Note: If you are having difficulty threading in the top screws, make sure all the holes are aligned and loosen the bottom screws a couple of turns. ![](case_cover.jpg)
+10. Lastly, grab the opaque top with the opening for the OLED screen and align the holes with the standoffs. Clean the opaque top with wet cloth before placing the clear cover on top. Then, take the remaining screws and screw in the top. Note: If you are having difficulty threading in the top screws, make sure all the holes are aligned and loosen the bottom screws a couple of turns. ![](case_cover.jpg)
 11. Take the rotary encoder washer and nut and fasten them on top of the encoder. Use pliers to tighten the nut a 1/4 turn past touching the plate. Overtightening could cause your plate to bend preventing insertion of the USB cable. ![](case_encoder_nut.jpg)
 12. Unscrew the rotary encoder knob set screw and then place it on the top of the rotary encoder. Tighten the set screw while holding the knob slightly away from bottoming out. This makes it so that when you press the knob you are not hitting the acrylic, but actuating the rotary encoder switch. ![](case_knob.jpg)
 13. Place the rubber feet onto the bottom of the case wherever makes sense for you. Typically this is done on the **bottom edge** of the foot and the bottom left and right corners. The pad placement should take care of any *skew* in your case. 
