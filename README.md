@@ -4,6 +4,22 @@
 
 Build Guide and additional information [here](doc/BUILDGUIDE.md)!
 
+![](doc/grabert_white_pulse.jpg)
+![](doc/grabert_black_back.jpg)
+![](doc/grabert_white_canvas_angled.jpg)
+
+<details>
+  <summary>Screen and Foot</summary>
+  <img src="doc/grabert_white_screen.jpg" name="image-name">
+  <img src="doc/grabert_foot.jpg" name="image-name">
+</details>
+<br/>
+<details>
+  <summary>PCB Images</summary>
+  <img src="doc/pcb_front.jpg" name="image-name">
+  <img src="doc/pcb_back.jpg" name="image-name">
+</details>
+
 ## Features
 
 - OLED Screen
