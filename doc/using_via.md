@@ -13,7 +13,7 @@ For all official VIA documentation see the VIA [website](https://caniusevia.com/
 3. Launch VIA through your OS
 4. Select "Import Keymap" from your OS's menu
 5. Select the `grabert.json` file from your computer that you just downloaded
-6. Use VIA in whatever way you want. The main operations are selecting a layer and then a key and choosing what you want the coresponding key to represent. ![](via_select_key.png)
+6. Use VIA in whatever way you want. The main operations are selecting a layer and then a key and choosing what you want the coresponding key to represent. Note that the mapping changes immediately after selecting a new key for the highlighted switch. ![](via_select_key.png)
 7. Dive into setting up custom "Macros" and advanced layering once you are ready.
 
 ### Additional Information

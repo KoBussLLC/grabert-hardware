@@ -16,8 +16,14 @@ You should see a STMicroelectronics device show up your device tree, which means
 
 To program your new firmware, flash a compiled bin with `dfu-util`. The STM32F072V8 only containes 64 Kbytes of flash, so make sure to not go crazy with too many stored images for the OLED. To learn more about building the firmware see the QMK docs. 
 
+Build Command
 ``` sh
-dfu-util -a 0 -s 0x08000000:leave -D kobuss_grabert_via.bin
+make kobuss/squash:via
+```
+
+Build and Flash Command
+``` sh
+make kobuss/squash:via:dfu-util
 ```
 ### Debugger Programming
 
@@ -36,6 +42,14 @@ Pin A9 of the STM32072 is broken out on the left of the USB, along with the USB 
 This pin could also be used as an input in a case were you want a giant mechanical switch for some special function. 
 
 ![](pcb_breakout.png)
+
+### Wanted QMK additions to Grabert
+If you are working on the firmware for Grabert and want to see what you might be able to add, the following is a list of things that we believe others could benefit from.
+
+- Implement STM32 RTC to enable programable clock to display on the OLED
+- Add configurable WS2812 or PWM based LED on PA9
+- Crazy cool OLED implementations!
+- Add custom VIA "eeprom" storage for encoder along with custom VIA implementation of the encoder
 
 ## Rust Firmware
  

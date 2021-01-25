@@ -13,7 +13,8 @@
 ### Determining Your Layout
 The first step in building your keyboard is deciding what layout you want to use. If you have already picked out a keycap set, make
 sure that the layout you choose can be achieved with the keycaps that you have.
-With a standard 60% layout, Grabert uses 61 PCB Mount MX style switches with 1x 6.25U and 4x 2.00U PCB mount stabilizers. Grabert can be built with both PCB mount and plate mount MX switches while the PCB mount switches provide better alignment but more difficult installation, and the plate mount switches are the inverse.  Grabert offers 4 layout options that can change these component requirements, as shown in the table below.
+With a standard 60% layout, Grabert uses 61 PCB Mount MX style switches with 1x 6.25U and 4x 2.00U PCB mount stabilizers. Grabert can be built with both PCB mount and plate mount MX switches, while the PCB mount switches provide better alignment but more difficult installation, and the plate mount switches are the inverse.  Grabert offers 4 layout options that can change these component requirements, as shown in the table below. With that said, it is recommended to have at least 3 extra switches on hand in case you have a wild child spring or you just have a mysterious defunct switch.
+
 | Option | Key Size Change | Switch Requirement Change | Stabilizer Requirement Change |
 |-|-|-|-|
 | Split Backspace | 2.0U ⇨ 1.0U + 1.0U  | +1 | -1x 2.00U |
@@ -48,7 +49,7 @@ We use [Super Lube 51004](https://www.amazon.com/gp/product/B000UKUHXK/) for our
 | Tool | Purpose |
 |-|-|
 | Soldering Iron and Solder | Soldering in MX style switches |
-| Metric Hex Key Set| Assembling the case |
+| Metric Hex Keys (1.5mm & 2mm) | Assembling the case |
 | Small Phillips Head ScrewDriver| Screwing in PCB Mount Stabilizers |
 | Pliers | Tightening hex nuts |
 | Rubber Band | Holding the OLED Screen in place |
@@ -72,15 +73,15 @@ The beginning of the build is the most difficult, so get your coffee or tea and 
 ### Switch Plate Assembly
 
 1. Gather the POM switchplate and your lubricated switches. Place **all** the switches that match your layout pattern that you have chosen into the switch plate. The metallic pins of the switches should be towards the top edge, except for the space bar. Feel free to reference the PCB, as the switch pins should fit into the holes.
-To make sure that the switch is “clipped” in place and is securely in the switch plate, use your thumb and opposing finger to apply pressure at the clip in point and the switch plate. Make sure you hear a clicking sound (sometimes faint). This may be difficult on your hands, so take a break if you need to.  In spaces like the right modifier area, make sure you reference the PCB to make sure the switches are in the correct location of the cutout. Note: The switch should be perpendicular to the switchplate.  ![](switch_clip.jpg)
+To make sure that the switch is “clipped” in place and is securely in the switch plate, use your thumb and opposing finger to apply pressure at the clip in point and the switch plate. Make sure you hear a clicking sound (sometimes faint). This may be difficult on your hands, so you can use a blunt object like a screwdriver to apply direct pressure to the area of the switchplate next to the clip of the switch. (See [Errata](#errata) for why this is)  In spaces like the right modifier area, make sure you reference the PCB to make sure the switches are in the correct location of the cutout. Note: The switch should be perpendicular to the switchplate. ![](switch_clip.jpg) ![](switch_force.jpg)
 2. With all of the switches in the switch-plate, place the switch plate onto the PCB. This step may seem simple, but it is important to do it without applying pressure that may push the switches out of the switch-plate or bend the pins. Make sure you can see all the pins aligned with the desired holes before applying any pressure.  You may also need to correct for any switch placement misalignment. ![](pcb_plate_alignment.jpg)
 3. Press down on the PCB, with the top of the switches touching your work surface. This may take quite a bit of pressure and is best done from one corner to another. Another method is to pick up the PCB and apply opposite pressure with single switches and the PCB. Make sure that all switches are pressed in all the way and perpendicular. Any misalignment here could cause your keycaps to touch each other. ![](pcb_switch_push.jpg) ![](pcb_switches_inserted.jpg)
 4. With all the switches inserted into the PCB, with the switch plate sandwiched between, solder all pins of the switches. Note that the bottom pin is the ground pin and may take more heat from your soldering iron. [Sparkfun's Soldering Guide](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering/all) for reference. ![](pcb_solder.jpg)
 5. After soldering all the switches, take the encoder and forcefully place the pins into the PCB's top-right corner. If it is feeling extra difficult, you may need to push on the tabs with a screwdriver to make the encoder snap into place. ![](pcb_encoder_placement.jpg)
 6. Solder all 7 pins of the rotary encoder and make sure to take off the washer and nut on the top of the rotary encoder. ![](pcb_encoder_solder.png)
 7. Take the two 6mm standoffs with 2mm nuts and fasten them in the holes on the PCB under the OLED. These standoffs will support the OLED installation for easy alignment. The nuts can be tightened with pliers just past hand tight. ![](pcb_oled_standoff.jpg) ![](pcb_oled_nut.jpg)
-8. Insert the OLED display (peel the protective sheet off) into the top and rest it upon the installed standoffs. Recommended: Stretch a rubber band around the assembly to hold the OLED in place while you solder it. ![](pcb_oled_rubberband.jpg)
-9. Solder the four pins of the OLED display and make sure the display is aligned. It is alway good to solder just one pin and check alignment before soldering the rest of the pins ![](switchplate_assembly.jpg)
+8. Insert the OLED display (peel the protective sheet off) into the top and rest it upon the installed standoffs. Recommended: Stretch a rubber band around the assembly to hold the OLED in place while you solder it. If you cannot get your OLED to be aligned both horizontally and vertically you may need to **gently** bend the pins that are connected to the OLED PCB. ![](pcb_oled_rubberband.jpg)
+9. Solder the four pins of the OLED display and make sure the display is aligned. It is alway good to solder just one pin and check alignment before soldering the rest of the pins. Note that the ground (bottom) pin may take some extra soldering heat. ![](switchplate_assembly.jpg)
 10. Plug the switch plate assembly into the your computer via the USB-C connector
 11. Go back to the "KEY TESTER" in VIA and reset the keyboard. Press all the switches to test and see if your soldering was successful. If some of the switches don’t work, check your solder connections and pins. If the OLED does not work, check its connections as well.
 12. Unplug your partially assembled keyboard, we are in the home stretch! 🏁🏃
@@ -101,10 +102,12 @@ To make sure that the switch is “clipped” in place and is securely in the sw
 12. Unscrew the rotary encoder knob set screw and then place it on the top of the rotary encoder. Tighten the set screw while holding the knob slightly away from bottoming out. This makes it so that when you press the knob you are not hitting the acrylic, but actuating the rotary encoder switch. ![](case_knob.jpg)
 13. Place the rubber feet onto the bottom of the case wherever makes sense for you. Typically this is done on the **bottom edge** of the foot and the bottom left and right corners. The pad placement should take care of any *skew* in your case. 
 14. Place your keycaps on the switches 🙌
-15. Use VIA to configure your keymapping! 🎉
+15. Use VIA to configure your keymapping! 🎉 [Using VIA reference](using_via.md)
 16. Experts: [customize your firmware](firmware_customization.md)
  
 ## Errata
  
+- MX style switches require relatively tight tolerances for the switch plate. This includes 0.551 ± 0.002 dimensions for the cut-out and 0.060 ± 0.004 for the thickness of the plate. The acrylic that is sourced is marketed as 1.5mm (0.059") but often comes as thick as 0.067" this is 0.003" thicker than the specification and can make it extremely difficult for switches to clip in. Use a scredriver or other blunt object to put pressure on the switch-plate right at the clip location to get the switch to clip in. If applying direct pressure does not resolve the issue, you may need to use sandpaper to reduce the thickness of the plate at the clip in location (This is not normally necessary). 
+
 - The switch plate or PCB may warp in shipping or during assembly. This is acceptable in small amounts, but if there is two much pressure, it may add friction to the switches. To correct any major warping, support the edges of the switch plate or PCB with two books and put a small weight in the center. If you leave this overnight, the plate should plastically deform and hopefully become more flat.
 
