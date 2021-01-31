@@ -27,25 +27,25 @@ If this is your first time building a keyboard, it may be nice to use a default 
 Grabert default layout:
 
 ![Grabert 61 key layout](via_61_layout.png)
- 
+
 Grabert with all layout options utilized:
 
 ![Grabert 65 key layout](via_65_layout.png)
- 
+
 Once you have your layout chosen, grab your favorite switches and get them lubed!
- 
+
 We use [Super Lube 51004](https://www.amazon.com/gp/product/B000UKUHXK/) for our switches and [Super Lubes 21030](https://www.amazon.com/gp/product/B06WLQ251B/) for our stabilizers, but use whatever you like. We loosely follow [Taeha Types's Switch Lubing Guide](https://youtu.be/qSgPKPoFo2k) and [Taeha Types's Clipping, Lubing, and Band-aiding Guide](https://youtu.be/cD5Zj-ZgMLA) as a process for lubing our personal switches and stabilizers.
- 
+
 ### Required Components that are not supplied
- 
+
 - Keycaps (Options: [Amazon](https://www.amazon.com/gp/product/B081DDG7CJ/), [MK](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=429&show=100&sortby=num_sold:desc))
 - PCB Mount MX Style Switches (See [above](#determining-your-layout) for quantity) (Option: [Amazon](https://www.amazon.com/gp/product/B07TYD6Z3R/))
 - PCB Mount Stabilizers (See [above](#determining-your-layout) for size/quantity) (Option: [Amazon](https://www.amazon.com/gp/product/B07ZLXCWY9/))
 - Switch/Stabilizer Lubricant (**Optional**)
 - USB-C Cable (Option: [Amazon](https://www.amazon.com/gp/product/B07VQYLXJC/))
- 
+
 ### Required Tools
- 
+
 | Tool | Purpose |
 |-|-|
 | Soldering Iron and Solder | Soldering in MX style switches |
@@ -54,13 +54,13 @@ We use [Super Lube 51004](https://www.amazon.com/gp/product/B000UKUHXK/) for our
 | Pliers | Tightening hex nuts |
 | Rubber Band | Holding the OLED Screen in place |
 | Wire or Paperclip | Testing PCB Connections |
- 
+
 ![Required Tools](tools.jpg)
- 
+
 ## Build Instructions
- 
+
 The beginning of the build is the most difficult, so get your coffee or tea and get going! ☕🔨
- 
+
 ### PCB Testing and Setup
 1. Launch VIA and import the `grabert.json` keymap. If you do not know how to do this, see the [Using VIA guide](using_via.md).
 2. Plug-in your Grabert PCB via the USB-C connector and make sure that VIA recognizes the keyboard. (Note: We test all PCBs are recognized before shipment, but this makes sure everything is working correctly when delivered.)
@@ -69,7 +69,7 @@ The beginning of the build is the most difficult, so get your coffee or tea and 
 5. Use a spare wire or a paperclip to test that each key is registered. You do not need to light up the lone square at the bottom right corner, as this represents the encoder. ![](pcb_testing.jpg) ![](via_test.png)
 6. Unplug the USB-C cable from the PCB once all keys are "lit" except for the bottom-right hand key. If not all keys light up, contact us at kobussllc@gmail.com
 7. Lubricate your stabilizers if you wish, and then install them onto the PCB. To install the stabilizers, snap them onto the PCB and screw them in from the back of the PCB. The side of the stabilizer with the screw hole goes into the smaller hole in the PCB. The screw hole will be towards the top for all the small stabilizers and towards the bottom for the large space bar stabilizer (reference the picture). Screw them in slightly past hand tight. ![](pcb_stabilizers.jpg)
- 
+
 ### Switch Plate Assembly
 
 1. Gather the POM switchplate and your lubricated switches. Place **all** the switches that match your layout pattern that you have chosen into the switch plate. The metallic pins of the switches should be towards the top edge, except for the space bar. Feel free to reference the PCB, as the switch pins should fit into the holes.
@@ -85,9 +85,9 @@ To make sure that the switch is “clipped” in place and is securely in the sw
 10. Plug the switch plate assembly into the your computer via the USB-C connector
 11. Go back to the "KEY TESTER" in VIA and reset the keyboard. Press all the switches to test and see if your soldering was successful. If some of the switches don’t work, check your solder connections and pins. If the OLED does not work, check its connections as well.
 12. Unplug your partially assembled keyboard, we are in the home stretch! 🏁🏃
- 
+
 ### Case Assembly
- 
+
 1. Clean the OLED display and solder joints with a cloth coated in isopropyl alcohol. **Do not clean the acrylic case with isopropyl alcohol as it will cause the acrylic to crack!**
 2. Grab the casing materials and start with the bottom plate along with two 6mm standoffs and four screws (Skip the standoffs and foot pieces if you do not want an inclined keyboard)
 3. The bottom plate is symmetrical, so pick a side and call it "the top". Screw the two 6mm standoffs into the “center” holes with two screws. Hand tight is adequate. ![](case_bottom_foot_standoffs.jpg)
@@ -100,14 +100,14 @@ To make sure that the switch is “clipped” in place and is securely in the sw
 10. Lastly, grab the opaque top with the opening for the OLED screen and align the holes with the standoffs. Clean the opaque top with wet cloth before placing the clear cover on top. Then, take the remaining screws and screw in the top. Note: If you are having difficulty threading in the top screws, make sure all the holes are aligned and loosen the bottom screws a couple of turns. ![](case_cover.jpg)
 11. Take the rotary encoder washer and nut and fasten them on top of the encoder. Use pliers to tighten the nut a 1/4 turn past touching the plate. Overtightening could cause your plate to bend preventing insertion of the USB cable. ![](case_encoder_nut.jpg)
 12. Unscrew the rotary encoder knob set screw and then place it on the top of the rotary encoder. Tighten the set screw while holding the knob slightly away from bottoming out. This makes it so that when you press the knob you are not hitting the acrylic, but actuating the rotary encoder switch. ![](case_knob.jpg)
-13. Place the rubber feet onto the bottom of the case wherever makes sense for you. Typically this is done on the **bottom edge** of the foot and the bottom left and right corners. The pad placement should take care of any *skew* in your case. 
+13. Place the rubber feet onto the bottom of the case wherever makes sense for you. Typically this is done on the **bottom edge** of the foot and the bottom left and right corners. The pad placement should take care of any *skew* in your case.
 14. Place your keycaps on the switches 🙌
 15. Use VIA to configure your keymapping! 🎉 [Using VIA reference](using_via.md)
 16. Experts: [customize your firmware](firmware_customization.md)
- 
+
 ## Errata
- 
-- MX style switches require relatively tight tolerances for the switch plate. This includes 0.551 ± 0.002 dimensions for the cut-out and 0.060 ± 0.004 for the thickness of the plate. The acrylic that is sourced is marketed as 1.5mm (0.059") but often comes as thick as 0.067" this is 0.003" thicker than the specification and can make it extremely difficult for switches to clip in. Use a scredriver or other blunt object to put pressure on the switch-plate right at the clip location to get the switch to clip in. If applying direct pressure does not resolve the issue, you may need to use sandpaper to reduce the thickness of the plate at the clip in location (This is not normally necessary). 
+
+- MX style switches require relatively tight tolerances for the switch plate. This includes 0.551 ± 0.002 dimensions for the cut-out and 0.060 ± 0.004 for the thickness of the plate. The acrylic that is sourced is marketed as 1.5mm (0.059") but often comes as thick as 0.067" this is 0.003" thicker than the specification and can make it extremely difficult for switches to clip in. Use a scredriver or other blunt object to put pressure on the switch-plate right at the clip location to get the switch to clip in. If applying direct pressure does not resolve the issue, you may need to use sandpaper to reduce the thickness of the plate at the clip in location (This is not normally necessary).
 
 - The switch plate or PCB may warp in shipping or during assembly. This is acceptable in small amounts, but if there is two much pressure, it may add friction to the switches. To correct any major warping, support the edges of the switch plate or PCB with two books and put a small weight in the center. If you leave this overnight, the plate should plastically deform and hopefully become more flat.
 
