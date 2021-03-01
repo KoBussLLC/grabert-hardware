@@ -19,6 +19,11 @@ Build Guide and additional information [here](doc/BUILDGUIDE.md)!
   <img src="doc/pcb_front.jpg" name="image-name">
   <img src="doc/pcb_back.jpg" name="image-name">
 </details>
+<br/>
+
+[PCB design video](https://youtu.be/ezk02GJ9iMs)
+
+[Case design video](https://youtu.be/DsW-hKeB3mc)
 
 ## Features
 
