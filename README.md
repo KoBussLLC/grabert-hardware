@@ -94,3 +94,22 @@ Foot stackup. "0" is closest to the case and is on the "top"
 | 0 | foot_0 | 0.125 in | Acrylic |
 | 1 | foot_1 | 0.125 in | Acrylic |
 | 2 | foot_2 | 0.125 in | Acrylic |
+
+## License
+MIT License
+
+Copyright (c) 2021 KoBuss LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this hardware, software, and associated documentation files (the "Product"), to deal in the Product without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Product, and to permit persons to whom the Product is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Product.
+
+THE PRODUCT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE PRODUCT OR THE USE OR OTHER DEALINGS IN THE PRODUCT.
+
+### For the Keyboard Community
+You can produce and sell this keyboard. KoBuss LLC is not liable. Creator attribution is preferred but not required.
+
+### License Change?
+We initially licensed this under the Creative Commons Attribution-NonCommercial 4.0 International License, but have since decided to change it to MIT.
+This would not be appropriate if the product was in production and had been forked/derived, but because we made the license change early on we deemed it acceptable.
+If you have any issues with this change, please contact us directly.
