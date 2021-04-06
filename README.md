@@ -52,6 +52,9 @@ This project uses KiCad 6 for electrical CAD
 - Push-Button Encoder
 - 0.91" 128x32px I2C OLED Display (SSD1306)
 
+### Changes
+- V0 had incorrectly valued bypass capacitors. Testing showed no obvious issues, but it is not preferable.
+
 ## CAD
 
 This project uses FreeCAD 0.19 for mechanical CAD
